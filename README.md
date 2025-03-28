@@ -35,8 +35,8 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/crypto-trading-bot.git
-cd crypto-trading-bot
+git clone https://github.com/rayyanghazi/ghazian.git
+cd ghazian
 ```
 
 2. Install dependencies:
