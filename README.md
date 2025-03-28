@@ -41,6 +41,7 @@ cd ghazian
 
 2. Install dependencies:
 ```bash
+npm init -y
 npm install
 ```
 
